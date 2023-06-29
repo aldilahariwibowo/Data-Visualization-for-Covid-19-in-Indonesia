@@ -11,3 +11,6 @@ Demographic data is also available, as well as calculations between demographic 
 Data Source : https://www.kaggle.com/datasets/hendratno/covid19-indonesia?select=covid_19_indonesia_time_series_all.csv
 
 Data Visualization link in Looker Studio : https://lookerstudio.google.com/reporting/164792ba-eb15-4587-a878-ca58bbdb7a79
+
+![Data Visualization of Covid- 19 Indonesia](https://github.com/aldilahariwibowo/Data-Visualization-for-Covid-19-in-Indonesia/assets/80616937/e1e51f48-adc5-4c0d-b253-2430c1d94047)
+
